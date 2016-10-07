@@ -10,7 +10,7 @@ public class Rechner {
 		System.out.println("Hallo du schoenes Programm");
 		System.out.println("Hallo du NICHT schoenes Programm");
 
-		System.out.println("doch nicht so oft");
+		System.out.println("und dann anderer text");
 		
 		return c;
 		
