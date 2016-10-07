@@ -10,7 +10,18 @@ public class Rechner {
 		System.out.println("Hallo du schoenes Programm");
 		System.out.println("Hallo du NICHT schoenes Programm");
 
+		System.out.println("Hallo du schoenes Programm");
+		System.out.println("Hallo du NICHT schoenes Programm");
+		System.out.println("Hallo du schoenes Programm");
+		System.out.println("Hallo du NICHT schoenes Programm");
+		System.out.println("Hallo du schoenes Programm");
+		System.out.println("Hallo du NICHT schoenes Programm");
+				
+		
 		return c;
+		
+		
+		
 	}
 
 }
